@@ -10,10 +10,10 @@ with open('dieoutput.csv') as dieoutput:
             
 def ThrowDice(a,b,c,d,e,f,g,h,i):
     print(f'''
-╭───────╮
-│ {a} {b} {c} │
-│ {d} {e} {f} │
-│ {g} {h} {i} │
-╰───────╯
-    ''')
+ ╭───────╮
+ │ {a} {b} {c} │
+ │ {d} {e} {f} │
+ │ {g} {h} {i} │
+ ╰───────╯
+''')
 ThrowDice(a1,b1,c1,d1,e1,f1,g1,h1,i1)
