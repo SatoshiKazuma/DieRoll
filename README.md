@@ -1,4 +1,5 @@
 # DieRoll
+![Diefaces](Die6Sides.png)
 This program simulates a single die roll
 ## Input
 No input required, running the program is akin to rolling the die
